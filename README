@@ -1,0 +1,4 @@
+calculate Jaro-Winlker distance
+
+- http://en.wikipedia.org/wiki/Jaro-Winkler_distance
+- porting from Apache Luence 2.4.0 (JaroWinklerDistance.java)
